@@ -103,7 +103,7 @@ These examples wrap ADK agents in Streamlit web interfaces. Run them using `stre
 
 ## Resources
 
-* **YouTube Tutorial:** [Building Powerful AI Agents with Google ADK: A Complete Step-by-Step Guide](https://www.youtube.com/your_video_link)
+* **YouTube Tutorial:** [Building Powerful AI Agents with Google ADK: A Complete Step-by-Step Guide](https://www.youtube.com/watch?v=EuKWEO4SQJg)
 * **Google ADK Documentation:** https://cloud.google.com/vertex-ai/generative-ai/docs/agent-builder/overview
 * **Google ADK GitHub:** https://github.com/google/adk-python
 * **ADK Samples:** https://github.com/google/adk-python/tree/main/src/google/adk/examples
